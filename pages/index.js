@@ -15,8 +15,8 @@ export default function Home() {
           OneSignalDeferred.push(function(OneSignal) {
             OneSignal.init({
               appId: "0e6d9083-524a-4079-89eb-5a7bfd60b820",
-            });
-          });
+            })
+          })
         </script>
       </Head>
 
