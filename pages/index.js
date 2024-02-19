@@ -29,6 +29,7 @@ export default function Home() {
       <Head>
         <title>Next.js Starter!</title>
         <link rel="icon" href="/favicon.ico" />
+        <link rel="manifest" href="/manifest.json"/>
       </Head>
 
       {/* Usando next/script para carregar o script do OneSignal */}
