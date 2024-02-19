@@ -40,7 +40,7 @@ export default function Home() {
           Get started by editing <code>pages/index.js</code>
         </p>
 
-        <button>Botão que não faz nada</button>
+        <div className="onesignal-customlink-container"></div>
       </main>
 
       <Footer />
